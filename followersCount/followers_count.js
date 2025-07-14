@@ -18,10 +18,10 @@ function checkCountValue() {
   }
 }
 
-function displayCount(){
+function displayCount() {
     document.getElementById('countDisplay').innerHTML = count; // display the count in HTML
 }
- // function for reset COunt
- function resetCount(){
+ // function for reset Count
+ function resetCount() {
     alert("Followers Count Has Been Reset")
  }
